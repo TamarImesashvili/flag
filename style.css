@@ -1,0 +1,22 @@
+.parent {
+    width: 1280px;
+    height: 832px;
+    border: 1px solid rgba(64, 64, 64, 1);
+    background-color: rgba(64, 64, 64, 1);
+    position: relative;
+    
+}
+.child {
+    width: 1280px;
+    height: 311px;
+    border: 1px solid rgba(113, 0, 0, 1);
+    background-color: rgba(113, 0, 0, 1);
+    position: relative;
+}
+
+.image {
+    width: 50%;
+    height: 50%;
+    position: relative;
+    top: ;
+}
